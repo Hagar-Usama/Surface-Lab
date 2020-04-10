@@ -21,32 +21,42 @@ get surface of Intersection for revolutionary surfaces
 * [To-do List][13]
 * [Bugs][14]
 * [License][15]
-* [Acknowledgments][15]
+* [Acknowledgments][16]
 
-[10]: https://img.shields.io/:Build-Passing-whiteGreen.svg?style=round-square
-[11]: https://img.shields.io/:Totally-Creamy-yellow.svg?style=round-square
-[12]: https://img.shields.io/:Linux-Lover-red.svg?style=round-square
-[13]: https://img.shields.io/:Processess-Everywhere-brown.svg?style=round-square
-[14]: https://img.shields.io/:Processess-Everywhere-brown.svg?style=round-square
-[15]: https://img.shields.io/:Processess-Everywhere-brown.svg?style=round-square
+[10]: https://github.com/Hagar-Usama/Surface-Lab#introduction 'Introduction'
+
+[11]: https://github.com/Hagar-Usama/Surface-Lab#technologies 'Technologies'
+
+[12]: https://github.com/Hagar-Usama/Surface-Lab#contributing 'Contributing'
+
+[13]: https://github.com/Hagar-Usama/Surface-Lab#to-do-list 'To-Do List'
+
+[14]: https://github.com/Hagar-Usama/Surface-Lab#bugs 'Bugs'
+
+[15]: https://github.com/Hagar-Usama/Surface-Lab#license 'License'
+
+[16]:https://github.com/Hagar-Usama/Surface-Lab#acknowledgments- 'Acknowledgments'
+
 ---
 
 ## Introduction
 Surfaces? Why would we ever need to get Intersection between 'Surfaces'?
 
 > Think of *OpenSCAD*, *SolidWorks*, or *Blinder*. Can any of them work without the base knowledge of 'intersection of surfaces'? Most probably no.
-Great things are build step by step! 💪
+Great things are built step by step! 💪
 
 The project was initiated in 2017, with two students : **Mariam Mourad** & [me][22]. Unfortunately, I got to know **version control** services a year later.
 
 [22]:http://github.com/hagar-usama 'Hagar Usama'
 
 ---
+
 ## Technologies
 
 The project is implemented in MATLAB, and:
 * Graphical User Interface (GUI)
 * uses the very basic geometrical concepts
+
 ---
 
 ## Launch
@@ -63,6 +73,7 @@ The project is implemented in MATLAB, and:
 
 
 ---
+
 ## Contributing
 > To get started...
 
@@ -98,17 +109,20 @@ The project is implemented in MATLAB, and:
 
 
 ---
+
 ## Bugs
 * This needs some inspection 😒! Going back 3 years!🙆
 * If you have run the project, let me know if you found any bugs.
 
 ---
+
 ## License
 ![License](http://img.shields.io/:License-MIT-blue.svg?style=round-square)
 
 [MIT License](https://opensource.org/licenses/MIT "MIT")
 
 ---
+
 ## Acknowledgments 🙏
 I am grateful for you all. So, thank you for:
 * _[May - June 2017]_  **Mariam Mourad**: being a co-founder for the project 🙈
