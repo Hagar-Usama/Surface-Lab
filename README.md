@@ -58,7 +58,7 @@ The project was initiated in 2017, with two students : **Mariam Mourad** & [me][
 ## Technologies
 
 The project is implemented in MATLAB, and:
-* Graphical User Interface (GUI)
+* provides a Graphical User Interface (GUI)
 * uses the very basic geometrical concepts
 
 ---
@@ -101,10 +101,10 @@ The project is implemented in MATLAB, and:
     - 🍴 Fork this repo!
 
 - **Option 2**
-    - Clone this repo to your local machine using [Repo Link][23]
+    - Clone this repo to your local machine using [Repo Link][26]
 
 
-  [23]: https://github.com/Hagar-Usama/Surface-Lab 'Surface Intersection'
+  [26]: https://github.com/Hagar-Usama/Surface-Lab 'Surface Intersection'
 
 - **option 3**
   - Even if you do not code, send me your idea. I will credit you. And if you are interested, I will help you make it **on your own!**
@@ -120,8 +120,8 @@ The project is implemented in MATLAB, and:
 <!--  <a   ></a> -->
 ---
 ## To-do List
-* [x] Build a neat README
-* [ ] rebuild it in an open-source language (python)
+* [x] build a neat README
+* [ ] rebuild the project in an open-source language (python)
 * [ ] add classes
 * [ ] add mouse events
 * [ ] consider more **descriptive** captions
@@ -146,4 +146,4 @@ The project is implemented in MATLAB, and:
 I am grateful for you all. So, thank you for:
 * _[May - June 2017]_  **Mariam Mourad**: being a co-founder for the project 🙈
 * _[May - June 2017]_ **Prof Dr. Maged Nageed**: supporting us by clarifying whatsoever is unclear
-* _[June 2019]_ **Rana Mohmamed** : providing me helpful material to revive the project
+* _[June 2019]_ **Rana Mohmamed**: providing me helpful material to revive the project
