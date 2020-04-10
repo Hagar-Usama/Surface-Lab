@@ -18,24 +18,30 @@ get surface of Intersection for revolutionary surfaces
 * [Introduction][10]
 * [Technologies][11]
 * [Launch][12]
-* [To-do List][13]
-* [Bugs][14]
-* [License][15]
-* [Acknowledgments][16]
+* [Screenshots][13]
+* [Contributing][14]
+* [To-do List][15]
+* [Bugs][16]
+* [License][17]
+* [Acknowledgments][18]
 
-[10]: https://github.com/Hagar-Usama/Surface-Lab#introduction 'Introduction'
+[10]: https://github.com/Hagar-Usama/Surface-Lab#introduction
 
-[11]: https://github.com/Hagar-Usama/Surface-Lab#technologies 'Technologies'
+[11]: https://github.com/Hagar-Usama/Surface-Lab#technologies
 
-[12]: https://github.com/Hagar-Usama/Surface-Lab#contributing 'Contributing'
+[12]: https://github.com/Hagar-Usama/Surface-Lab#launch
 
-[13]: https://github.com/Hagar-Usama/Surface-Lab#to-do-list 'To-Do List'
+[13]: https://github.com/Hagar-Usama/Surface-Lab#screenshots
 
-[14]: https://github.com/Hagar-Usama/Surface-Lab#bugs 'Bugs'
+[14]: https://github.com/Hagar-Usama/Surface-Lab#contributing
 
-[15]: https://github.com/Hagar-Usama/Surface-Lab#license 'License'
+[15]: https://github.com/Hagar-Usama/Surface-Lab#to-do-list
 
-[16]:https://github.com/Hagar-Usama/Surface-Lab#acknowledgments- 'Acknowledgments'
+[16]: https://github.com/Hagar-Usama/Surface-Lab#bugs
+
+[17]: https://github.com/Hagar-Usama/Surface-Lab#license
+
+[18]:https://github.com/Hagar-Usama/Surface-Lab#acknowledgments- 
 
 ---
 
@@ -71,6 +77,20 @@ The project is implemented in MATLAB, and:
  > As a Linux-biased one, I usually use Octave in my work. *(MATLAB is now available on Linux BTW)*. But when it comes to GUI, I think this won't work.
 
 
+---
+## Screenshots
+
+![Papillon][23]
+
+![Tear][24]
+
+![Big Heart][25]
+
+[23]: https://github.com/Hagar-Usama/Surface-Lab/blob/master/Screenshots/Old_batch_2/final-like.JPG 'papillon'
+
+[24]: https://github.com/Hagar-Usama/Surface-Lab/blob/master/Screenshots/Old_batch_2/Captno8ure.JPG 'Tear'
+
+[25]: https://github.com/Hagar-Usama/Surface-Lab/blob/master/Screenshots/Old_batch_2/BigHeart.JPG 'Big Heart'
 
 ---
 
@@ -86,7 +106,7 @@ The project is implemented in MATLAB, and:
     - Clone this repo to your local machine using [Repo Link][23]
 
 
-  [23]: https://github.com/Hagar-Usama/Intersection-between-surfaces 'Surface Intersection'
+  [23]: https://github.com/Hagar-Usama/Surface-Lab 'Surface Intersection'
 
 - **option 3**
   - Even if you do not code, send me your idea. I will credit you. And if you are interested, I will help you make it **on your own!**
