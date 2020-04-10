@@ -1,15 +1,13 @@
 # Surface Lab 💎
 
 
-get surface of Intersection for revolutionary surfaces
+get intersection for surfaces of revolution
 
 ![Build-Passing][1] ![Purpose-Education][2] ![Need-Maintenance][3]
 
 [1]: https://img.shields.io/:Build-Passing-whiteGreen.svg?style=round-square
 [2]: https://img.shields.io/:Purpose-Education-yellow.svg?style=round-square
 [3]: https://img.shields.io/:Need-Maintenance-red.svg?style=round-square
-
-[4]: https://img.shields.io/:Processess-Everywhere-brown.svg?style=round-square
 
 
 ---
@@ -41,7 +39,7 @@ get surface of Intersection for revolutionary surfaces
 
 [17]: https://github.com/Hagar-Usama/Surface-Lab#license
 
-[18]:https://github.com/Hagar-Usama/Surface-Lab#acknowledgments- 
+[18]:https://github.com/Hagar-Usama/Surface-Lab#acknowledgments-
 
 ---
 
@@ -126,6 +124,7 @@ The project is implemented in MATLAB, and:
 * [ ] rebuild it in an open-source language (python)
 * [ ] add classes
 * [ ] add mouse events
+* [ ] consider more **descriptive** captions
 
 
 ---
@@ -147,4 +146,4 @@ The project is implemented in MATLAB, and:
 I am grateful for you all. So, thank you for:
 * _[May - June 2017]_  **Mariam Mourad**: being a co-founder for the project 🙈
 * _[May - June 2017]_ **Prof Dr. Maged Nageed**: supporting us by clarifying whatsoever is unclear
-* _[June 2019]_ **Rana Mohmamed** : giving me access to helpful material to revive the project
+* _[June 2019]_ **Rana Mohmamed** : providing me helpful material to revive the project
