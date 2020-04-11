@@ -90,6 +90,13 @@ The project is implemented in MATLAB, and:
 
 [25]: https://github.com/Hagar-Usama/Surface-Lab/blob/master/Screenshots/Old_batch_2/BigHeart.JPG 'Big Heart'
 
+
+>Still Curious? 
+check 👉 [Screenshots][26]
+
+
+[26]: https://github.com/Hagar-Usama/Surface-Lab/tree/master/Screenshots 'Screenshots'
+
 ---
 
 ## Contributing
@@ -101,10 +108,10 @@ The project is implemented in MATLAB, and:
     - 🍴 Fork this repo!
 
 - **Option 2**
-    - Clone this repo to your local machine using [Repo Link][26]
+    - Clone this repo to your local machine using [Repo Link][27]
 
 
-  [26]: https://github.com/Hagar-Usama/Surface-Lab 'Surface Intersection'
+  [27]: https://github.com/Hagar-Usama/Surface-Lab 'Surface Intersection'
 
 - **option 3**
   - Even if you do not code, send me your idea. I will credit you. And if you are interested, I will help you make it **on your own!**
@@ -117,7 +124,7 @@ The project is implemented in MATLAB, and:
 
 - 🔃 Create a new pull request using this [Link]().
 
-<!--  <a   ></a> -->
+
 ---
 ## To-do List
 * [x] build a neat README
@@ -145,5 +152,5 @@ The project is implemented in MATLAB, and:
 ## Acknowledgments 🙏
 I am grateful for you all. So, thank you for:
 * _[May - June 2017]_  **Mariam Mourad**: being a co-founder for the project 🙈
-* _[May - June 2017]_ **Prof Dr. Maged Nageed**: supporting us by clarifying whatsoever is unclear
+* _[May - June 2017]_ **Prof Dr. Maged Naguib**: supporting us by clarifying whatsoever is unclear
 * _[June 2019]_ **Rana Mohmamed**: providing me helpful material to revive the project
