@@ -130,7 +130,7 @@ The project is implemented in MATLAB, and:
 ---
 
 ## Bugs
-* Some bugs are fixed. Yet, this needs some inspection 😒! Going back 3 years!🙆
+* Some bugs are fixed. Yet, this needs some inspection 👀! Going back 3 years!🙆
 * If you have run the project, let me know if you found any bugs.
 
 ---
