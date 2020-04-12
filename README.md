@@ -122,7 +122,7 @@ check 👉 [Screenshots][26]
 
 ### Step 3
 
-- 🔃 Create a new pull request using this [Link]().
+- 🔃 Create a new pull request.
 
 
 ---
